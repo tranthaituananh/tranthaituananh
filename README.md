@@ -2,7 +2,7 @@
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - :school: I'm currently the last year student at **University of Information Technology - VNUHCM**
-- :books: In addition to being an ardent **React Native, DevOps & Blockchain** enthusiast, I am a **Full Stack Web Developer**.
+- :books: In addition to being a **Full Stack Web Developer**, I have a strong interest in **React Native, DevOps, and Blockchain**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :monocle_face: I'm interested in coding and reading books
 - :sunglasses: My quote is ***"Patience is a key element of success"*** 
