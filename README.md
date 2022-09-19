@@ -33,7 +33,8 @@
 <div align="center">
   <a href="https://github.com/tranthaituananh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tranthaituananh&layout=compact&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=6&layout=compact&theme=react" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=6&layout=compact&theme=react" />
+    <img height="360em" src="https://github-readme-streak-stats.herokuapp.com/?user=tranthaituananh&theme=react" />
   </a>
 </div>
 
