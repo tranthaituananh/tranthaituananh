@@ -1,4 +1,7 @@
-# 👋 Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Trần Thái Tuấn Anh! 
+<p align="center">
+  <a href="https://github.com/tranthaituananh"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=fff&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Tr%E1%BA%A7n+Th%C3%A1i+Tu%E1%BA%A5n+Anh" alt="tranthaituananh | hello_world!" /></a>
+</p> 
+<h3 align="center"> ♥️ <a href="mailto:tranthaituananh27@gmail.com">Gmail</a> • <a href="https://t.me/tuananh2705">Telegram</a> • <a href="https://www.instagram.com/ta.2705__">Instagram</a> • <a href="https://leetcode.com/tranthaituananh/">Leetcode</a> ♥️ </h3>  
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - :school: I'm currently the last year student at **University of Information Technology - VNUHCM**
@@ -36,14 +39,6 @@
     <img height="230em" src="https://github.com/tranthaituananh/github-stats-transparent/blob/output/generated/languages.svg" />
   </a>
 </div>
-
-### <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"> Connect With Me </h2>
-<p align="center">
-  <a href="mailto:tranthaituananh27@gmail.com"><img align="center" width="40px" alt="tranthaituananh | Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
-  <a href="https://t.me/tuananh2705"><img align="center" width="50px" alt="tranthaituananh | Telegram" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png"/></a>
-  <a href="https://www.instagram.com/ta.2705__"><img align="center" width="35px" alt="tranthaituananh | Instagram" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg"/></a>&nbsp;
-  <a href="https://leetcode.com/tranthaituananh/"><img align="center" width="40px" alt="tranthaituananh | Leetcode" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"/></a>
-</p>  
 
 ---
 <div align="center">
