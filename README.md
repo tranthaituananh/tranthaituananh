@@ -42,7 +42,6 @@
   <a href="mailto:tranthaituananh27@gmail.com"><img align="center" width="40px" alt="tranthaituananh | Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
   <a href="https://t.me/tuananh2705"><img align="center" width="50px" alt="tranthaituananh | Telegram" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png"/></a>
   <a href="https://www.instagram.com/ta.2705__"><img align="center" width="35px" alt="tranthaituananh | Instagram" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg"/></a>&nbsp;
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tranthaituananh"><img align="center" width="40px" alt="tranthaituananh | GitHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   <a href="https://leetcode.com/tranthaituananh/"><img align="center" width="40px" alt="tranthaituananh | Leetcode" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png"/></a>
 </p>  
 
