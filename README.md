@@ -9,7 +9,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :monocle_face: I'm interested in coding and reading books
 - :sunglasses: My quote is ***"Patience is a key element of success"*** 
-- :ok_hand: Fun fact: The computer was born to solve problems that did not exist before
+- :ok_hand: Fun fact: **The computer was born to solve problems that did not exist before**
 
 ### <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Technical Stacks </h2>  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
