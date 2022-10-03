@@ -35,8 +35,9 @@
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
 <div align="center">
   <a href="https://github.com/tranthaituananh">
-    <img height="230em" src="https://github.com/tranthaituananh/github-stats-transparent/blob/output/generated/overview.svg" />
-    <img height="230em" src="https://github.com/tranthaituananh/github-stats-transparent/blob/output/generated/languages.svg" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=tranthaituananh&theme=react&date_format=j/n/Y">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaituananh&theme=react&langs_count=8&&layout=compact&hide=java" />
+    <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=tranthaituananh&theme=react">
   </a>
 </div>
 
