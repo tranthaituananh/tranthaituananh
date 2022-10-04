@@ -37,7 +37,7 @@
   <a href="https://github.com/tranthaituananh">
     <img height="180em" src="https://streak-stats.demolab.com/?user=tranthaituananh&theme=material&date_format=j/n/Y">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238" />
-    <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=tranthaituananh&bg_color=263238&color=80cbc4&line=80cbc4&point=ffab91&hide_border=true">
+    <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=tranthaituananh&bg_color=263238&color=80cbc4&line=80cbc4&point=ffab91">
   </a>
 </div>
 
