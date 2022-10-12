@@ -35,7 +35,7 @@
 ### <h2> <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"> My GitHub Analytics </h2> 
 <div align="center">
   <a href="https://github.com/tranthaituananh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=tranthaituananh&cache_seconds=7200&include_all_commits=true&count_private=true&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=tranthaituananh&cache_seconds=7200&include_all_commits=true&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238" />
     <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=tranthaituananh&bg_color=263238&color=80cbc4&line=80cbc4&point=ffab91" />
   </a>
