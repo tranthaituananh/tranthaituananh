@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/tranthaituananh"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Tr%E1%BA%A7n+Th%C3%A1i+Tu%E1%BA%A5n+Anh" alt="tranthaituananh | hello_world!" /></a>
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=317m4rudbcrjx2jta6au7c2u35hi&cover_image=true&theme=novatorem&bar_color=80cbc4">
 </p> 
 <h3 align="center"> ♥️ <a href="mailto:tranthaituananh27@gmail.com">Gmail</a> • <a href="https://t.me/tuananh2705">Telegram</a> • <a href="https://www.instagram.com/ta.2705__">Instagram</a> • <a href="https://leetcode.com/tranthaituananh/">Leetcode</a> ♥️ </h3>  
 
