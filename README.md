@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/tranthaituananh"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=50&duration=2311&pause=500&color=80cbc4&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hello+World+!+;I'm+Tran+Thai+Tuan+Anh" alt="tranthaituananh | hello_world!" /></a>
 </p> 
-<h3 align="center"> ♥️ <a href="mailto:tranthaituananh27@gmail.com">Gmail</a> • <a href="https://t.me/tuananh2705">Telegram</a> • <a href="https://www.instagram.com/ta.2705__">Instagram</a> • <a href="https://leetcode.com/tranthaituananh/">Leetcode</a> ♥️ </h3>  
+<h3 align="center"> ♥️ <a href="http://tuananh-portfolio.vercel.app/">Website</a> • <a href="mailto:tranthaituananh27@gmail.com">Gmail</a> • <a href="https://t.me/tuananh2705">Telegram</a> • <a href="https://www.instagram.com/ta.2705__">Instagram</a> • <a href="https://leetcode.com/tranthaituananh/">Leetcode</a> ♥️ </h3>  
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
 - :school: I'm currently the last year student at **University of Information Technology - VNUHCM**
