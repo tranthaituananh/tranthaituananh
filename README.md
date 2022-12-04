@@ -37,7 +37,6 @@
   <a href="https://github.com/tranthaituananh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=tranthaituananh&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranthaituananh&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=8" />
-    <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=tranthaituananh&theme=material&radius=16" />
   </a>
 </div>
 
