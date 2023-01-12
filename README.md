@@ -44,5 +44,5 @@
 ---
 <div align="center">
   :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
-  &copy; 2022 Tran Thai Tuan Anh
+  &copy; 2023 Tran Thai Tuan Anh
 </div>
