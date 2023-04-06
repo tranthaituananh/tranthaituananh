@@ -3,10 +3,11 @@
 </p> 
 <p align="center">
   <a href="http://tuananh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-23112010?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anh-tran-thai-tuan-948306265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tranthaituananh.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/tuananh2705"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ta.2705__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://leetcode.com/tranthaituananh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.instagram.com/ta.2705__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>  
 
 ### <h2> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></img> About Me </h2>
